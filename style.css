@@ -33,6 +33,7 @@
 
 .navbar-brand, .carousel-caption {
     font-family: 'Andada Pro', serif;
+    color: gold;
 }
 
 .card-body {
